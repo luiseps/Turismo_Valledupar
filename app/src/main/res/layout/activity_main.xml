@@ -23,6 +23,7 @@
                 android:layout_weight="2"
                 android:gravity="center"
                 android:text="@string/titulo"
+                android:textColor="@color/deeppink"
                 android:textSize="30sp" />
 
 
@@ -39,21 +40,21 @@
                     android:layout_height="wrap_content"
                     android:text="@string/intro"
                     android:textSize="14sp"
-                    android:textColor="@color/darkmagenta"
+                    android:textColor="@color/slategray"
                     android:layout_weight="1"/>
                 <TextView
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/intro2"
                     android:textSize="14sp"
-                    android:textColor="@color/darkmagenta"
+                    android:textColor="@color/slategray"
                     android:layout_weight="1"/>
                 <TextView
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/intro3"
                     android:textSize="14sp"
-                    android:textColor="@color/darkmagenta"
+                    android:textColor="@color/slategray"
                     android:layout_weight="1"/>
 
 
